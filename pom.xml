@@ -7,7 +7,7 @@
     <version>9.5.0</version>
     <packaging>jar</packaging>
     <name>Model</name>
-    <description>This project is a SDK used to integrate with e-signlive.</description>
+    <description>This project has objects that represent the E-Signlive rest model.</description>
     <url>http://www.silanis.com</url>
 
     <properties>
