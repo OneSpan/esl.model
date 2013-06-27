@@ -16,7 +16,9 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
-
+    <scm>
+        <url>https://github.com/silanis/esl.model</url>
+    </scm>
     <licenses>
         <license>
             <name>MIT License</name>
